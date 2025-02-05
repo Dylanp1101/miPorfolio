@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrolladora web Front-End",
-        "parrafo-info": "Estudiante de Estadistica y programación enfocada al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
+        "home_text-3": "Desarrollador web Front-End",
+        "parrafo-info": "Soy un desarrollador web apasionado por la tecnología, enfocado en crear interfaces de usuario intuitivas y funcionales. Mi enfoque actual es el desarrollo frontend, pero estoy en constante aprendizaje para expandir mis habilidades hacia el full stack. Me esfuerzo por mantener un código limpio y bien estructurado, siempre buscando mejorar la calidad del producto final. Valoro profundamente el trabajo en equipo y la colaboración, ya que creo que las mejores soluciones nacen del intercambio de ideas y la cooperación. Estoy comprometido con mi crecimiento profesional y con ofrecer soluciones innovadoras y de alta calidad.",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
         "title": "Sobre mí",
-        "texto_sobreMi": "Soy estudiante del pregrado de Estadística y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+        "texto_sobreMi": "Soy un apasionado estudiante de desarrollo web, siempre en busca de nuevos desafíos y oportunidades para seguir aprendiendo. Me considero una persona proactiva, con una fuerte habilidad para la resolución de problemas y la adaptación a nuevas tecnologías. Mi enfoque está en crear soluciones eficientes y colaborativas, y busco siempre mejorar tanto mis habilidades técnicas como mis competencias interpersonales."
     },
 
     "habilidades": {
@@ -26,26 +26,25 @@
 
     "formacion": {
         "title": "Formación",
-        "formacion1": "Estadística",
-        "tiempo-formacion1": "2019 - En curso",
-        "formacion2": "Desarrolladora Full-Stack",
-        "tiempo-formacion2": "2022 - En curso",
-        "formacion3": "Contabilización de Operaciones Comerciales y Financieras"
+        "formacion1": "Analista Programador",
+        "tiempo-formacion1": "2024 - En curso",
+        "formacion2": "Desarrollador Web",
+        "tiempo-formacion2": "2024 - Finalizado",
+        "formacion3": "JavaScript",
+        "tiempo-formacion3": "2024 - Finalizado",
+        "formacion4": "React Js",
+        "tiempo-formacion4": "2024 - Finalizado"
+
+
     },
 
     "proyectos": {
         "title": "Proyectos",
-        "title-proyecto1": "Juego del Ahorcado",
-        "info-proyecto1": "Un juego donde el usuario debe adivinar la palabra secreta con un cierto número de oportunidades. La palabra se escoge de forma aleatoria por el programa y el usuario perderá en el momento en que la horca se complete.",
-        "title-proyecto2": "Portafolio",
-        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
-        "title-proyecto3": "Encriptador de Texto",
-        "info-proyecto3": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
-    },
-
-    "contacto": {
-        "title": "Contacto",
-        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
-        "btn-enviar": "Enviar"
+        "title-proyecto1": "Landing de Expedición",
+        "info-proyecto1": "Landing page diseñada para promocionar una expedición a los Andes, destacando destinos como Aconcagua, Fitz Roy y Torres del Paine. Un diseño atractivo y funcional para una experiencia única.",
+        "title-proyecto2": "E-commerce Momentis",
+        "info-proyecto2": "E-commerce de relojes con una selección exclusiva de modelos presentados de manera clara y atractiva para facilitar su exploración.",
+        "title-proyecto3": "2048",
+        "info-proyecto3": "2048 es un juego en el que combinas bloques con números hasta llegar al 2048. Se juega en una cuadrícula de 4x4 y el objetivo es no llenar el tablero sin poder mover más."
     }
 }

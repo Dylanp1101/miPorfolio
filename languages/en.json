@@ -1,23 +1,23 @@
 {
     "menu": {
-        "item2": "About me",
+        "item2": "About Me",
         "item3": "Skills",
-        "item4": "Training",
+        "item4": "Education",
         "item5": "Projects",
         "item6": "Contact"
     },
 
     "home": {
-        "home_text-1": "Hi! I'm",
+        "home_text-1": "Hello! I am",
         "home_text-3": "Front-End Web Developer",
-        "parrafo-info": "Statistics and programming student focused on Frontend Web Development. As a person who loves intuitive and aesthetically pleasing designs I seek to create projects that provide the best user experience.",
+        "parrafo-info": "I am a web developer passionate about technology, focused on creating intuitive and functional user interfaces. My current focus is frontend development, but I am constantly learning to expand my skills towards full-stack development. I strive to maintain clean and well-structured code, always looking to improve the quality of the final product. I deeply value teamwork and collaboration, as I believe the best solutions come from the exchange of ideas and cooperation. I am committed to my professional growth and delivering innovative, high-quality solutions.",
         "cv_button": "Download CV",
         "contact_button": "Contact"
     },
 
     "sobre-mi": {
-        "title": "About me",
-        "texto_sobreMi": "I'm a Statistics undergraduate student and a self-taught Web Development student focused on Frontend programming.<br>I aspire to get a job in the Web Development world, gain experience, new knowledge and strengthen my professional life.<br><br>I'm an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continuously improve myself."
+        "title": "About Me",
+        "texto_sobreMi": "I am a passionate web development student, always seeking new challenges and opportunities to continue learning. I consider myself a proactive person, with strong problem-solving skills and the ability to adapt to new technologies. My focus is on creating efficient and collaborative solutions, and I am always looking to improve both my technical skills and interpersonal competencies."
     },
 
     "habilidades": {
@@ -25,27 +25,24 @@
     },
 
     "formacion": {
-        "title": "Training",
-        "formacion1": "Statistic",
-        "tiempo-formacion1": "2019 - In progress",
-        "formacion2": "Full-Stack Developer",
-        "tiempo-formacion2": "2022 - In progress",
-        "formacion3": "Accounting for Commercial and Financial Transactions"
+        "title": "Education",
+        "formacion1": "Programmer Analyst",
+        "tiempo-formacion1": "2024 - Ongoing",
+        "formacion2": "Web Developer",
+        "tiempo-formacion2": "2024 - Completed",
+        "formacion3": "JavaScript",
+        "tiempo-formacion3": "2024 - Completed",
+        "formacion4": "React Js",
+        "tiempo-formacion4": "2024 - Completed"
     },
 
     "proyectos": {
         "title": "Projects",
-        "title-proyecto1": "Hangman Game",
-        "info-proyecto1": "A game where the user must guess the secret word with a certain number of chances. The word is chosen randomly by the program and the user will lose the moment the gallows is completed.",
-        "title-proyecto2": "Portfolio",
-        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
-        "title-proyecto3": "Text Encryptor",
-        "info-proyecto3": "An encryptor where the user can type a text and the encryptor encrypts it with pre-programmed keys. The encryptor can also decrypt the text."
-    },
-
-    "contacto": {
-        "title": "Contact",
-        "text": "Complete the form below and I will contact you as soon as possible.",
-        "btn-enviar": "Send"
+        "title-proyecto1": "Expedition Landing",
+        "info-proyecto1": "A landing page designed to promote an expedition to the Andes, highlighting destinations like Aconcagua, Fitz Roy, and Torres del Paine. An attractive and functional design for a unique experience.",
+        "title-proyecto2": "Momentis E-commerce",
+        "info-proyecto2": "A watch e-commerce with a carefully curated selection of models presented clearly and attractively to facilitate exploration.",
+        "title-proyecto3": "2048",
+        "info-proyecto3": "2048 is a game where you combine numbered blocks until you reach 2048. It’s played on a 4x4 grid, and the goal is to avoid filling the board so you can’t move anymore."
     }
 }
